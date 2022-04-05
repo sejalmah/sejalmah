@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I am Sejal 
+**I am learning WebDev**
 
-<!--
-**sejalmah/sejalmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning ReactJS
+<!-- - 👯 I’m looking to collaborate on a project -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about HTML,CS -->
+- 📫 How to reach me: maheshwarisejal2201@gmail.com
+<!-- - 😄 Pronouns:  -->
+<!-- - ⚡ Fun fact:  -->
 
-Here are some ideas to get you started:
+Connect With Me :
+https://www.linkedin.com/in/sejal-maheshwari-bb94371b4/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
