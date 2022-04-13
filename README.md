@@ -1,5 +1,5 @@
 <h1 align="center">Hello World , I'm Sejal Maheshwari</h1>
-<h3 align="center">I am always up for learning new things .</h3>
+<h3 align="center">I am learning WebDev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalmah&label=Profile%20views&color=0e75b6&style=flat" alt="sejalmah" /> </p>
 
