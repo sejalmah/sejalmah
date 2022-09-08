@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **ReactJS projects**
+- 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 💬 Ask me about **HTML,CSS,JS**
 
