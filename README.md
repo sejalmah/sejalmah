@@ -1,30 +1,37 @@
-<h1 align="center">Hello World , Sejal here :)</h1>
-<h3 align="center">I am learning WebDev.</h3>
+<h1 align="center">Hi 👋, I'm Sejal</h1>
+<h3 align="center">I am always up for learning new things .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalmah&label=Profile%20views&color=0e75b6&style=flat" alt="sejalmah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalmah" alt="sejalmah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sejalmah" target="blank"><img src="https://img.shields.io/twitter/follow/sejalmah?logo=twitter&style=for-the-badge" alt="sejalmah" /></a> </p>
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+- 👯 I’m looking to collaborate on **ReactJS projects**
+
+- 👨‍💻 All of my projects are available at [https://portfollio.live/sejalmah](https://portfollio.live/sejalmah)
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **maheshwarisejal2201@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YRDfgt5-vMhqi3z78QFh0voSi_-kJYE1/view?usp=sharing](https://drive.google.com/file/d/1YRDfgt5-vMhqi3z78QFh0voSi_-kJYE1/view?usp=sharing)
+
 - ⚡ Fun fact **I am interested in doing sketching .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sejalmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sejalmah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sejal-maheshwari-bb94371b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-maheshwari-bb94371b4" height="30" width="40" /></a>
+<a href="https://instagram.com/sejalmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sejalmah" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sejalmah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sejalmah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sejal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sejal22" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sejalmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sejalmah" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vistara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vistara" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sejalmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sejalmah" height="30" width="40" /></a>
 </p>
 
